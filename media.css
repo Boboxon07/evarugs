@@ -1,0 +1,43 @@
+@media screen and (max-width: 1280px){
+
+    .boshi{
+        font-size: 17px;
+        width: 1420px;
+    }
+    .boshi div p
+    {
+        font-size: 20px;
+    }
+    .asosiysozlar{
+        font-size: 28px;
+    }
+    .ortadagisozlar{
+        font-size: 38px;
+    }
+    .ortadagiknopka{
+        font-size: 25px;
+        line-height: 45px;
+        width: 150px;
+        height: 50px;
+    }
+    .ortadagiknopka a span{
+        color: aqua;
+        margin-left: 15px;
+    }
+    .ortadagisoz
+    {
+        display: none;
+    }
+}
+@media screen and (max-width: 1010px) {
+    .boshi{
+    gap: 13px   ;
+    font-size: 17px;
+    }
+    .rasmlaruch{
+        max-width: 1000px    ;
+    }
+    .uchtaliblock {
+     max-width: 1000px;   
+    }
+}
